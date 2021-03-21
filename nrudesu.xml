@@ -13,7 +13,7 @@
 		/>
 
 	<project path="device/xiaomi/cactus" name="device_xiaomi_cactus" remote="EinTim" revision="11" />
-	<project path="device/xiaomi/cereus" name="device_xiaomi_cereus" remote="EinTim" />
+	<project path="device/xiaomi/cereus" name="device_xiaomi_cereus" remote="EinTim" revision="11"/>
 	<project path="device/xiaomi/mt6765-common" name="android_device_xiaomi_mt6765-common" remote="wulan17-dt" />
 	<project path="kernel/xiaomi/mt6765" name="android_kernel_xiaomi_mt6765" remote="wulan17-kernel" />
 	<project path="vendor/xiaomi" name="proprietary_vendor_xiaomi" remote="wulan17-dt" />
